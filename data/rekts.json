@@ -30,9 +30,13 @@
          "a rubber chicken",
          "a spiked bat",
          "a fire extinguisher",
-         "a heavy rock"
+         "a heavy rock",
+         "a chair",
+         "a portrait of Richard Stallman",
+         "a cardboard box"
       ],
       "item_plural":[
+         "a few cardboard boxes",
          "cast iron skillets",
          "large trouts",
          "baseball bats",
@@ -86,19 +90,22 @@
         "ISIS' new base",
         "Area 51",
         "Fort Knox",
-        "Cheyenne Mountain"
+        "Cheyenne Mountain",
+        "the local KFC"
       ],
       "speed": [
         "OVER 9000",
         "4",
         "120",
-        "534465893465"
+        "534465893465",
+        "420 million"
       ],
       "units": [
         "Skrebs per second",
         "miles per hour",
         "kilometers per hour",
-        "fgts per minute"
+        "fgts per minute",
+        "CRTs per second"
       ],
       "misplaced_object": [
         "tree",
