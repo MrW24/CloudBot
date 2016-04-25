@@ -1,6 +1,7 @@
 {
    "templates":[
-      "watches as {user} gets {hits} {where} with {item} as they drive around {place} at a {speed_type} of {speed} {units} straight into a misplaced {misplaced_object} < < < R E K T > > >"
+      "watches as {user} gets {hits} {where} with {item} as they drive around {place} at a {speed_type} of {speed} {units} straight into a misplaced {misplaced_object} < < < R E K T > > >",
+      "watches while {user} gets chased around {place} while they have {item} {action} {where_personal} as they get hit by a truck and slammed into misplaced {misplaced_object} <<< <<< < < < R E K T > > > >>> >>>"
       ],
    "parts": {
       "item":[
@@ -82,9 +83,16 @@
         "on the ass",
         "on the face"
       ],
+      "where_personal": [
+        "in their chest",
+        "in their head",
+        "up their ass",
+        "in their face"
+      ],
       "action": [
         "struck",
-        "smashed"
+        "smashed",
+        "rammed"
       ],
       "place": [
         "ISIS' new base",
@@ -93,7 +101,8 @@
         "Cheyenne Mountain",
         "the local KFC",
 		"the buckingham palace",
-		"the statue of liberty"
+		"the statue of liberty",
+		"Atlantiss' house"
       ],
       "speed": [
         "OVER 9000",
@@ -120,7 +129,8 @@
         "mail box",
         "road sign",
 		"oil tank",
-		"steel figure of Chuck Norris"
+		"steel figure of Chuck Norris",
+		"park bench"
       ],
       "speed_type": [
         "shitty speed",
@@ -128,6 +138,12 @@
         "Skrebby speed",
 		"awsum speed",
 		"damn fast speed"
+      ],
+        "veichle": [
+        "truck",
+        "bus",
+        "car",
+        "motorcycle"
       ]
    }
 }
