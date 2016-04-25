@@ -91,32 +91,43 @@
         "Area 51",
         "Fort Knox",
         "Cheyenne Mountain",
-        "the local KFC"
+        "the local KFC",
+		"the buckingham palace",
+		"the statue of liberty"
       ],
       "speed": [
         "OVER 9000",
         "4",
         "120",
         "534465893465",
-        "420 million"
+        "420 million",
+		"1337",
+		"uncountable"
       ],
       "units": [
         "Skrebs per second",
         "miles per hour",
         "kilometers per hour",
         "fgts per minute",
-        "CRTs per second"
+        "CRTs per second",
+		"clicks per second",
+		"rounds per minute",
+		"victims per hour"
       ],
       "misplaced_object": [
         "tree",
         "lamp post",
         "mail box",
-        "road sign"
+        "road sign",
+		"oil tank",
+		"steel figure of Chuck Norris"
       ],
       "speed_type": [
         "shitty speed",
         "roaring speed",
-        "Skrebby speed"
+        "Skrebby speed",
+		"awsum speed",
+		"damn fast speed"
       ]
    }
 }
