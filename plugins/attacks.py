@@ -32,7 +32,7 @@ def load_attacks(bot):
     """
     :type bot: cloudbot.bot.CloudBot
     """
-    global larts, flirts, kills, slaps, rekts
+    global larts, flirts, kills, slaps, rekts, hacks
 
     with codecs.open(os.path.join(bot.data_dir, "larts.txt"), encoding="utf-8") as f:
         larts = [line.strip() for line in f.readlines() if not line.startswith("//")]
@@ -48,6 +48,9 @@ def load_attacks(bot):
 
     with codecs.open(os.path.join(bot.data_dir, "rekts.json"), encoding="utf-8") as f:
         rekts = json.load(f)
+
+    with codecs.open(os.path.join(bot.data_dir, "hacks.json"), encoding="utf-8") as f:
+        hacks = json.load(f)
 
 @asyncio.coroutine
 @hook.command
