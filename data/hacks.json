@@ -1,0 +1,34 @@
+{
+    "templates": [
+        "{hack} {user}'s {item}",
+        "realizes that {user}'s antivirus is too strong",
+        "gets caught hacking {user}'s item by {people}",
+        "watches as {hacker} {hack} {user}'s {item}"
+        
+    ],
+    "parts": {
+        "hack": [
+            "hacks",
+            "ddos's"
+            
+        ],
+        "item": [
+            "toaster",
+            "door",
+            "computer",
+            "IRC Client"
+        ],
+        "people": [
+            "the Mafia",
+            "the Police",
+            "the FBI"
+        ],
+        "hacker": [
+            "an anonymous hacker",
+            "someone",
+            "wbot",
+            "a random tennis player"
+        
+        ]
+    }
+}
