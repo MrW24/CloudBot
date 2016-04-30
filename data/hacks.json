@@ -2,7 +2,7 @@
     "templates": [
         "{hack} {user}'s {item}",
         "realizes that {user}'s antivirus is too strong",
-        "gets caught hacking {user}'s item by {people}",
+        "gets caught hacking {user}'s {item} by {people}",
         "watches as {hacker} {hack} {user}'s {item}"
         
     ],
